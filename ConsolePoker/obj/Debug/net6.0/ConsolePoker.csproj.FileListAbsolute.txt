@@ -1,0 +1,15 @@
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\bin\Debug\net6.0\ConsolePoker.exe
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\bin\Debug\net6.0\ConsolePoker.deps.json
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\bin\Debug\net6.0\ConsolePoker.runtimeconfig.json
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\bin\Debug\net6.0\ConsolePoker.dll
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\bin\Debug\net6.0\ConsolePoker.pdb
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.csproj.AssemblyReference.cache
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.AssemblyInfoInputs.cache
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.AssemblyInfo.cs
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.csproj.CoreCompileInputs.cache
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.dll
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\refint\ConsolePoker.dll
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.pdb
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ConsolePoker.genruntimeconfig.cache
+C:\Users\firef\source\repos\ConsolePoker\ConsolePoker\obj\Debug\net6.0\ref\ConsolePoker.dll
